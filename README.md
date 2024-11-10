@@ -7,7 +7,11 @@ Designed to automatically enter a bunch of question-answer pairs into word mint'
 Every question-answer pair is in the form of `question;answer` read from `qa.txt`
 <br/>Example:
 ```txt
+Math crossword
+
+- The first line is always the title of the crossword!
 - Anything that doesnt have a semi-colon is considered a comment.
+
 4 * 8 ; 32
 29 * 2 ; 58
 ```
